@@ -1,6 +1,6 @@
-# 🚀 Tharun Devaraja | Innovator • Builder • Future Tech Leader
+# 🚀 Tharun Devaraja | Visionary • Inventor • Problem-Solver
 
-I don't just code—I create, disrupt, and build with purpose. From **game development** to **web innovation** to **HCI-driven experiences**, I push boundaries to craft solutions that matter.
+I bring ideas to life.
 
 ## 💡 Tech & Tools
 - **Languages:** Java, JavaScript, HTML, CSS
@@ -8,10 +8,9 @@ I don't just code—I create, disrupt, and build with purpose. From **game devel
 - **Design & 3D:** Figma, Photoshop, Illustrator, Blender
 
 ## 📈 About Me
-Driven by innovation, guided by design, built for impact.
-- Entrepreneurial mindset
-- UI/UX & HCI Enthusiast
-- Visionary Creator
+- Driven by creativity
+- Passionate about UI/UX | HCI | GameDev
+- Visionary creator
 
-## ⚡ Let's connect and build the future
+## ⚡ Let’s connect and create.
 - 📷 Instagram: [@d3varaja](https://www.instagram.com/@d3varaja)
