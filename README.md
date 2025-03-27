@@ -1,4 +1,4 @@
-# 🚀 Tharun Devaraja
+# Tharun Devaraja
 
 I bring ideas to life.
 
