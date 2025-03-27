@@ -1,4 +1,4 @@
-# 🚀 Tharun Devaraja | Visionary • Inventor • Problem-Solver
+# 🚀 Tharun Devaraja
 
 I bring ideas to life.
 
