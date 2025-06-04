@@ -13,4 +13,4 @@ I bring ideas to life.
 - Visionary creator
 
 ## ⚡ Let’s connect and create.
-- 📷 Instagram: [@d3varajaa](https://www.instagram.com/@d3varajaa)
+- 📷 Instagram: [@d3varajaa](https://www.instagram.com/d3varajaa/?__pwa=1)
