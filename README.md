@@ -9,8 +9,7 @@
 
 ### 🎯 About Me
 
-- 🎨 I craft digital experiences with elegance  
-- 💡 Creator of [Pocket Projects](https://github.com/pocket-projects)  
+- 🎨 I craft digital experiences with elegance    
 - ⚙️ Passionate about **UI/UX, Fullstack Dev, Mobile Dev & Creative Tech**  
 - 🌍 Exploring human-centered design + impactful innovation  
 
