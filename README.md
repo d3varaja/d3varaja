@@ -19,10 +19,11 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,python,java,js,mongodb,mysql,redis,firebase,flutter,androidstudio,postman,figma,kotlin,docker,aws,express&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,express,python,java,kotlin,docker,aws,firebase,mongodb,mysql,redis,postman,flutter,androidstudio,figma&theme=light" />
 </p>
 
 ---
+
 
 ### 🔥 GitHub Stats
 
