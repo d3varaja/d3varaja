@@ -24,7 +24,7 @@
 ---
 
 
-### 🔥 GitHub Stats
+### 🔥 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d3varaja&show_icons=true&hide_border=true&bg_color=1A032F&title_color=E2AC0C&text_color=CAC3DF&icon_color=E2AC0C&count_private=true" width="40%" />
