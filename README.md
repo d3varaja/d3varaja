@@ -7,7 +7,7 @@
 
 ---
 
-### 🎯 About Me
+### About Me
 
 - 🎨 I craft digital experiences with elegance    
 - ⚙️ Passionate about **UI/UX, Fullstack Dev, Mobile Dev & Creative Tech**  
