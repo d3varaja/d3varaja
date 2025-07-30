@@ -5,7 +5,7 @@
 <h1 align="center" style="color:#E2AC0C;">Tharun Devaraja</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=UI/UX+Designer;Full+Stack+Developer;Mobile+App+Developer&font=Fira%20Code&center=true&width=380&height=50&color=E2AC0C&size=22" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=UI/UX+Designer;Full+Stack+Developer;Creative+Technologist;Mobile+App+Developer&font=Fira%20Code&center=true&width=380&height=50&color=E2AC0C&size=22" alt="Typing Animation" />
 </div>
 
 <p align="center">
@@ -23,10 +23,21 @@
 ---
 
 ### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,express,python,java,kotlin,docker,aws,firebase,mongodb,mysql,redis,postman,flutter,androidstudio,figma&theme=light" />
-</p>
 
+**Frontend & Mobile:**  
+JavaScript • TypeScript • React • Flutter • Android Studio
+
+**Backend & Infrastructure:**  
+Node.js • Express • Python • Java • Kotlin • Docker • AWS
+
+**Databases & Tools:**  
+MongoDB • MySQL • Redis • Firebase • Postman
+
+**Design & Prototyping:**  
+Figma • Photoshop • Illustrator
+
+**Other:**
+Arduino
 ---
 
 ### 🔥 Stats
