@@ -38,6 +38,7 @@ Figma • Photoshop • Illustrator
 
 **Other:**
 Arduino
+
 ---
 
 ### 🔥 Stats
