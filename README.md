@@ -16,13 +16,13 @@
 ---
 
 ### About Me
-- 🎨 I craft digital experiences with elegance    
-- ⚙️ Passionate about **UI/UX, Fullstack Dev, Mobile Dev & Creative Tech**  
-- 🌍 Exploring human-centered design + impactful innovation  
+- I craft digital experiences with elegance    
+- Passionate about **UI/UX, Fullstack Dev, Mobile Dev & Creative Tech**  
+- Exploring human-centered design + impactful innovation  
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Frontend & Mobile:**  
 JavaScript • TypeScript • React • Flutter • Android Studio
@@ -36,12 +36,12 @@ MongoDB • MySQL • Redis • Firebase • Postman
 **Design & Prototyping:**  
 Figma • Photoshop • Illustrator
 
-**Other:**
+**Other:**  
 Arduino
 
 ---
 
-### 🔥 Stats
+### Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d3varaja&show_icons=true&hide_border=true&bg_color=1A032F&title_color=E2AC0C&text_color=CAC3DF&icon_color=E2AC0C&count_private=true&include_all_commits=true&cache_seconds=1800" width="40%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3varaja&layout=compact&hide_border=true&bg_color=1A032F&title_color=E2AC0C&text_color=CAC3DF&icon_color=E2AC0C&langs_count=10&exclude_repo=d3varaja&hide=html,css&custom_title=Most%20Used%20Languages" width="40%" />
@@ -51,17 +51,15 @@ Arduino
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3varaja&theme=dark&background=1A032F&ring=E2AC0C&fire=E2AC0C&currStreakLabel=CAC3DF&sideLabels=CAC3DF&currStreakNum=E2AC0C&sideNums=E2AC0C&dates=CAC3DF&hide_border=true" width="48%" />
 </div>
 
-
-
 ---
 
-### 🧪 Mini Project Dump
+### Mini Project Dump
 👉 <a href="https://github.com/pocket-projects" target="_blank" rel="noopener noreferrer" style="background-color:#28a745;color:white;padding:5px 15px;border-radius:6px;text-decoration:none;font-weight:bold;">Pocket Projects</a>  
-🚀 A mini-lab of ideas: experimental UIs, interactions, games, micro-apps.
+A mini-lab of ideas: experimental UIs, interactions, games, micro-apps.
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px; color: white; font-weight: 600; letter-spacing: 0.03em;">
   <span style="display: inline-flex; align-items: center; gap: 8px;">
     <a href="https://www.instagram.com/d3varajaa" target="_blank" rel="noopener noreferrer">
