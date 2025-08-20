@@ -4,7 +4,7 @@
 
 <h1 align="center" style="color:#E2AC0C;">Tharun Devaraja</h1> 
 
-<div align="center">
+<div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=UI/UX+Designer;Full+Stack+Developer;Mobile+App+Developer&font=Fira%20Code&center=true&width=380&height=50&color=E2AC0C&size=22" alt="Typing Animation" />
 </div>
 
