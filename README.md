@@ -13,7 +13,7 @@
   <span style="color:#794ED1;">UI/UX · Web Dev · Mobile Dev · HCI </span>
 </p>
 
----
+---  
 
 ### About Me
 - I craft digital experiences with elegance    
