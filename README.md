@@ -1,6 +1,6 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=d3varaja&color=E2AC0C&style=flat-square" alt="Profile Views" />
-</div>
+</div> 
 
 <h1 align="center" style="color:#E2AC0C;">Tharun Devaraja</h1>
 
