@@ -9,7 +9,7 @@
 </div>
   
 <p align="center">
-  <b style="color:#CAC3DF;">I bring ideas to life.</b><br>
+  <b style="color:#CAC3DF;">I bring ideas to life.</b><br> 
   <span style="color:#794ED1;">UI/UX · Web Dev · Mobile Dev · HCI </span>  
 </p>
 
