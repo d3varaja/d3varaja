@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=UI/UX+Designer;Full+Stack+Developer;Mobile+App+Developer&font=Fira%20Code&center=true&width=380&height=50&color=E2AC0C&size=22" alt="Typing Animation" />
 </div>
   
-<p align="center">
+<p align="center"> 
   <b style="color:#CAC3DF;">I bring ideas to life.</b><br> 
   <span style="color:#794ED1;">UI/UX · Web Dev · Mobile Dev · HCI </span>  
 </p>
