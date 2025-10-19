@@ -20,8 +20,6 @@
 - Passionate about **UI/UX, Fullstack Dev, Mobile Dev & Creative Tech**  
 - Exploring human-centered design + impactful innovation  
 
----
-
 ### Tech Stack
 
 **Frontend & Mobile:**  
