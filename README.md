@@ -40,30 +40,4 @@ Figma • Photoshop • Illustrator
 Arduino
 
 ---
-
-### Mini Project Dump
-👉 <a href="https://github.com/pocket-projects" target="_blank" rel="noopener noreferrer" style="background-color:#28a745;color:white;padding:5px 15px;border-radius:6px;text-decoration:none;font-weight:bold;">Pocket Projects</a>  
-A mini-lab of ideas: experimental UIs, interactions, games, micro-apps.
-
----
-
-### Let's Connect
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 15px; color: white; font-weight: 600; letter-spacing: 0.03em;">
-  <span style="display: inline-flex; align-items: center; gap: 8px;">
-    <a href="https://www.instagram.com/d3varajaa" target="_blank" rel="noopener noreferrer">
-      <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/instagram-icon.svg" width="32" height="32" alt="Instagram Icon" />
-    </a>
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 8px;">
-    <a href="https://linkedin.com/in/d3varaja" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" alt="LinkedIn Icon" />
-    </a>
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-flex; align-items: center; gap: 8px;">
-    <a href="https://github.com/d3varaja" target="_blank" rel="noopener noreferrer">
-      <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github-icon.svg" width="32" height="32" alt="GitHub Icon" />
-    </a>
-  </span>
 </p>
